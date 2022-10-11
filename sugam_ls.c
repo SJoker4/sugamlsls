@@ -11,7 +11,7 @@ Thales Mello
 #include <unistd.h>
 #include <sys/wait.h>
 #include <fcntl.h>
-#include "custom_ls.h"
+#include "sugam_ls.h"
 #define MAX 100
 
 int number_of_paths;
